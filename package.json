@@ -1,0 +1,14 @@
+{
+  "name": "app04-express-server",
+  "version": "0.0.1",
+  "description": "server test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Moreno",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
